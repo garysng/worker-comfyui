@@ -6,6 +6,5 @@ venv/
 .env
 *.log
 .DS_Store
-ComfyUI/
 deploy/*.log
 tmp/
